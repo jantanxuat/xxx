@@ -33,7 +33,7 @@ sudo apt-get update -y
 sudo apt-get install google-chrome-stable -y
 #wget --no-check-certificate 'https://www.googleapis.com/drive/v3/files/1h7JJqMLu1IOGNF7OBkvt65a64C9XOhYc?alt=media&key=AIzaSyDTN35uWgTNDGpBi9iFpBf1WItEZZlr6aw' -O chrome60.deb
 #sudo apt purge google-chrome-stable -y
-#wget https://mazbron.net/chrome60.deb
+#wget https://pilegkada.com/gulingan/chrome60.deb
 sleep 1
 sudo apt autoclean
 #sudo dpkg -i chrome60.deb
@@ -53,7 +53,7 @@ cd /home
 ##rm -rf Default
 ##unzip profile-chrome.zip
 #sleep 2
-#wget https://github.com/mazbron/x/raw/master/chrome.tar.gz
+#wget https://github.com/jxuat/xxx/raw/main/chrome.tar.gz
 #tar -xvf chrome.tar.gz
 #sleep 1
 #wget http://173.212.241.46/x/ch60-3dir.tar.gz
@@ -61,14 +61,14 @@ cd /home
 #sleep 3
 #mv chrome chrome60
 #cd chrome60
-##wget https://github.com/mazbron/x/raw/master/fmb/game%2Balexa.tar.gz
-#wget https://github.com/mazbron/x/raw/master/default.tar.gz
+##wget https://github.com/jxuat/xxx/raw/main/fmbi/game%2Balexa.tar.gz
+#wget https://github.com/jxuat/xxx/raw/main/default.tar.gz
 #sleep 3
 #rm -rf Default
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-#wget https://mazbron.net/chrome4.tar.gz
+#wget https://pilgkada.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
 wget pilegkada.com/gulingan/chprof2022.zip
 unzip chprof2022.zip
@@ -110,14 +110,14 @@ apt install apache2 -y
 #cd /etc/apache2
 #rm apache2.conf
 #rm apache2.conf
-#wget https://github.com/mazbron/x/raw/master/apache2.conf
+#wget https://github.com/mazbron/x/raw/main/apache2.conf
 #service apache2 restart
 #cd /var/www/html
 #rm index.html
-##wget https://github.com/mazbron/x/raw/master/money/google.zip
+##wget https://github.com/jxuat/xxx/raw/main/money/google.zip
 ##unzip google.zip
-#wget https://github.com/mazbron/x/raw/master/HTML/index.html
-#wget https://github.com/mazbron/x/raw/master/HTML/style.css
+#wget https://github.com/jxuat/xxx/raw/main/HTML/index.html
+#wget https://github.com/jxuat/xxx/raw/main/HTML/style.css
 apt-get install proxychains -y
 #sleep 1
 apt-get install sl -y
@@ -128,7 +128,7 @@ cd /etc
 mv hosts hosts.bakk
 mv proxychains.conf proxychains.conf.bak
 wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
-#wget https://github.com/mazbron/x/raw/master/fmb/hosts
+#wget https://github.com/jxuatx/raw/main/fmbi/hosts
 #cp hosts hosts.bak
 pip install termdown
 sudo apt install xrdp -y 

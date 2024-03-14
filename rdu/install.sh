@@ -128,7 +128,7 @@ cd /etc
 mv hosts hosts.bakk
 mv proxychains.conf proxychains.conf.bak
 wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
-#wget https://github.com/jxuatx/raw/main/fmbi/hosts
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
 #cp hosts hosts.bak
 pip install termdown
 sudo apt install xrdp -y 

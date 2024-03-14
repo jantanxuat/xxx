@@ -93,10 +93,9 @@ cd
 mkdir Desktop
 cd Desktop
 wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
-/jxuat/xxx/main/fmbi/chr.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/FIGP.ascr
 wget https://github.com/jxuat/xxx/raw/main/rdu/GPNew.sh
-wget https://raw.githubusercontent.com/jxuat/xxx/raw/main/rdu/linkFIGP.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/linkFIGP.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp.png
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp2.png
 chmod +x FIGP.ascr

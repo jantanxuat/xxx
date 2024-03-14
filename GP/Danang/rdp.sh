@@ -40,7 +40,7 @@ sleep 1
 #wget https://github.com/mazbron/x/raw/master/fmb/mzlgame.tar.gz
 #tar -xvf mzlgame.tar.gz
 rm -rf .mozilla
-wget mazbron.net/ff19ipflood.tar.gz
+wget cerdaspro.com/gulingan/ff19ipflood.tar.gz
 tar -xvf ff19ipflood.tar.gz
  
 

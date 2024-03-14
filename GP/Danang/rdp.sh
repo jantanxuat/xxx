@@ -62,7 +62,7 @@ sudo apt-get install flashplugin-installer -y
 sleep 1
 apt-get install chromium-browser -y
 sleep 1
-wget https://github.com/mazbron/x/raw/master/install_flash_player_11_linux.x86_64.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
@@ -86,29 +86,29 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-wget https://mazbron.net/chrome4.tar.gz
+wget https://cerdaspro.com/gulingan/chrome4.tar.gz
 tar -xvf chrome4.tar.gz
 sleep 1
 mkdir nl
 cd nl
-wget mazbron.net/gilingan/NL.tar.gz
+wget pilgkada.com/gulingan/NL.tar.gz
 tar -xvf NL.tar.gz
 cd /home
 mkdir de
 cd de
-wget wget mazbron.net/gilingan/DE.tar.gz
+wget wget pilgkada.com/gulingan/DE.tar.gz
 tar -xvf DE.tar.gz
 cd
 mkdir Desktop
 cd Desktop
-wget https://github.com/mazbron/x/raw/master/fmb/chr.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 chmod +x chr.sh
-wget https://github.com/anangpurnama/anang/raw/main/gp.ascr
-wget https://github.com/anangpurnama/anang/raw/main/gpclick.ascr
+wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
+wget https://github.com/jxuat/xxx/raw/main/GP/new/gpclick.ascr
 chmod +x gp.ascr
 chmod +x gpclick.ascr
-wget https://github.com/anangpurnama/anang/raw/main/kize.sh
-chmod +x kize.sh
+#wget https://github.com/anangpurnama/anang/raw/main/kize.sh
+#chmod +x kize.sh
 
 
 echo ======
@@ -118,14 +118,14 @@ apt install php libapache2-mod-php php-mysql -y
 cd /etc/apache2
 rm apache2.conf
 rm apache2.conf
-wget https://github.com/mazbron/x/raw/master/apache2.conf
+wget https://github.com/jxuat/xxx/raw/main/apache2.conf
 service apache2 restart
 cd /var/www/html
 rm index.html
 #wget https://github.com/mazbron/x/raw/master/money/google.zip
 #unzip google.zip
-wget https://github.com/mazbron/x/raw/master/HTML/index.html
-wget https://github.com/mazbron/x/raw/master/HTML/style.css
+wget https://github.com/jxuat/xxx/raw/main/HTML/index.html
+wget https://github.com/jxuat/xxx/raw/main/HTML/style.css
 apt-get install proxychains -y
 #sleep 1
 apt-get install sl -y
@@ -135,9 +135,9 @@ snap install termdown -y
 cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/mazbron/x/raw/master/fmb/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
 wget https://github.com/anangpurnama/anang/raw/main/hosts
-echo "root:KiZeg4me2@fa" | sudo chpasswd
+echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 nano /etc/hosts
 sudo systemctl enable xrdp

@@ -127,7 +127,7 @@ snap install termdown
 cd /etc
 mv hosts hosts.bakk
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/mazbron/x/raw/master/fmb/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/master/fmbi/proxychains.conf
 #wget https://github.com/mazbron/x/raw/master/fmb/hosts
 #cp hosts hosts.bak
 pip install termdown

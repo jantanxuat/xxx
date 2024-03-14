@@ -103,7 +103,7 @@ chmod +x GPNew.sh
 chmod +x linkFIGP.sh
 chmod +x chr.sh
 sleep 1
-echo "root:Ributprayitno1" | sudo chpasswd
+echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 apt install apache2 -y
 #apt install php libapache2-mod-php php-mysql -y
@@ -127,7 +127,7 @@ snap install termdown
 cd /etc
 mv hosts hosts.bakk
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/jxuat/xxx/raw/master/fmbi/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
 #wget https://github.com/mazbron/x/raw/master/fmb/hosts
 #cp hosts hosts.bak
 pip install termdown
@@ -153,5 +153,5 @@ sudo systemctl enable xrdp
 sudo update-alternatives --config x-session-manager
 
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... MAZBRON.com _ BESTSEOTOOL.co
+echo Ceeeers... CERDASPRO.com _ RUDYCORP.co
 echo updated Famobi and 4J AtoZ - 7-09-2019

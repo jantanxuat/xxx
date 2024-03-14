@@ -44,7 +44,7 @@ sudo apt-get install flashplugin-installer -y
 sleep 1
 #apt-get install chromium-browser -y
 sleep 1
-wget https://github.com/mazbron/x/raw/master/install_flash_player_11_linux.x86_64.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
@@ -86,18 +86,18 @@ tar -xvf DE.tar.gz
 $cd chrome60
 $rm -rf Default
 $sleep 1
-$wget https://github.com/mazbron/x/raw/master/Default.zip
+$wget https://github.com/jxuat/xxx/raw/main/Default.zip
 $unzip Default.zip
 
 cd
 mkdir Desktop
 cd Desktop
-wget https://github.com/mazbron/x/raw/master/fmb/chr.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/rb/FIGP.ascr
-wget https://github.com/mazbron/x/raw/master/rb/GPNew.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/rb/linkFIGP.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/rb/playgp.png
-wget https://raw.githubusercontent.com/mazbron/x/master/rb/playgp2.png
+wget https://github.com/jxuat/xxx/main/fmbi/chr.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/FIGP.ascr
+wget https://github.com/jxuat/xxx/main/rdu/GPNew.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/linkFIGP.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp.png
+wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp2.png
 chmod +x FIGP.ascr
 chmod +x GPNew.sh
 chmod +x linkFIGP.sh

@@ -21,7 +21,7 @@ echo download ff profile
 sleep 1
 mv .mozilla .mozilla.bak
 #wget http://149.56.111.62/mozilla.tar.gz
-wget https://raw.githubusercontent.com/jxuat/xxx/main/.mozilla-new.tar.gz
+wget https://raw.githubusercontent.com/jxuat/xxx/main/mozilla-new.tar.gz
 tar -xvf .mozilla-new.tar.gz
 sleep 1
 wget https://github.com/jxuat/xxx/raw/main/iMacros-new.tar.gz

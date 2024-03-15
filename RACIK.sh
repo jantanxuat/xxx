@@ -33,7 +33,7 @@ sudo apt-get install google-chrome-stable -y
 sleep 1
 sudo apt-get install flashplugin-installer -y
 sleep 1
-wget https://github.com/mazbron/x/raw/master/install_flash_player_11_linux.x86_64.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
@@ -67,8 +67,8 @@ cd Desktop
 #chmod +x expert.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/85.sh
 #chmod +x 85.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/drive2.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/drive.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/drive2.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/drive.sh
 chmod +x drive.sh
 chmod +x drive2.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/tek.sh
@@ -81,7 +81,7 @@ chmod +x drive2.sh
 #chmod +x every.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/expertcavixo.sh
 #chmod +x expertcavixo.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/chr.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/chr.sh
 chmod +x chr.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/automo.sh
 #chmod +x automo.sh
@@ -89,7 +89,7 @@ chmod +x chr.sh
 #chmod +x nomadic.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/hipi.sh
 #chmod +x hipi.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/left.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/left.sh
 chmod +x left.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/asia.sh
 #chmod +x asia.sh
@@ -123,21 +123,21 @@ chmod +x left.sh
 #chmod +x caring.sh
 #wget https://github.com/mazbron/x/raw/master/remove.sh
 #chmod +x remove.sh
-wget https://github.com/mazbron/x/raw/master/Pulse.sh
+wget https://github.com/jxuat/xxx/raw/main/Pulse.sh
 chmod +x Pulse.sh
-wget https://github.com/mazbron/x/raw/master/AOL.sh
+wget https://github.com/jxuat/xxx/raw/main/AOL.sh
 chmod +x AOL.sh
-wget https://github.com/mazbron/x/raw/master/300.sh
+wget https://github.com/jxuat/xxx/raw/main/300.sh
 chmod +x 300.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/KILL.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/KILL.sh
 chmod +x KILL.sh
 #wget https://github.com/mazbron/x/raw/master/PLS.sh
 #chmod +x PLS.sh
-wget https://github.com/mazbron/x/raw/master/Angular.sh
+wget https://github.com/jxuat/xxx/raw/main/Angular.sh
 chmod +x Angular.sh
-wget https://github.com/mazbron/x/raw/master/racik2.sh
+wget https://github.com/jxuat/xxx/raw/main/racik2.sh
 chmod +x racik2.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/Bike.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/Bike.sh
 chmod +x Bike.sh
 
 #apt-get install proxychains -y
@@ -149,6 +149,6 @@ cd /etc
 #mv proxychains.conf proxychains.conf.bak
 mv hosts hosts.bak
 #wget http://sovrncpm.com/proxychains.conf
-wget https://github.com/mazbron/x/raw/master/racik/hosts
+wget https://github.com/jxuat/xxx/raw/main/racik/hosts
 #nano /etc/hosts
 echo SUKSES SELALU!!!

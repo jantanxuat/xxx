@@ -27,7 +27,7 @@ sleep 1
 #wget https://github.com/mazbron/x/raw/master/fmb/mzlgame.tar.gz
 #tar -xvf mzlgame.tar.gz
 rm -rf .mozilla
-wget mazbron.net/ff19ipflood.tar.gz
+wget cerdaspro.com/ff19ipflood.tar.gz
 tar -xvf ff19ipflood.tar.gz
  
 
@@ -49,7 +49,7 @@ sudo apt-get install flashplugin-installer -y
 sleep 1
 apt-get install chromium-browser -y
 sleep 1
-wget https://github.com/mazbron/x/raw/master/install_flash_player_11_linux.x86_64.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
@@ -80,44 +80,44 @@ tar -xvf chrome60new.tar.gz
 sleep 1
 mkdir nl
 cd nl
-wget mazbron.net/gilingan/NL.tar.gz
+wget pilegkada.com/gulingan/NL.tar.gz
 tar -xvf NL.tar.gz
 cd /home
 mkdir de
 cd de
-wget wget mazbron.net/gilingan/DE.tar.gz
+wget wget pilegkada.com/gulingan/DE.tar.gz
 tar -xvf DE.tar.gz
 cd
 mkdir Desktop
 cd Desktop
-wget https://github.com/mazbron/x/raw/master/fmb/chr.sh
+wget https://github.com/jxuat/xxx/raw/main/fmb/chr.sh
 chmod +x chr.sh
-wget https://github.com/mazbron/x/raw/master/SARAH2.sh
+wget https://github.com/jxuat/xxx/raw/main/SARAH2.sh
 chmod +x SARAH2.sh
 
-wget https://github.com/mazbron/x/raw/master/HW.sh
+wget https://github.com/jxuat/xxx/raw/main/HW.sh
 chmod +x HW.sh
-wget https://github.com/mazbron/x/raw/master/CrossClicker.zip
+wget https://github.com/jxuat/xxx/raw/main/CrossClicker.zip
 unzip CrossClicker.zip
 chmod +x CrossClicker.jar
 echo ==================FAMOBI=============
 sudo apt-get install actiona -y
-wget https://github.com/mazbron/x/raw/master/fmb/PLAY.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/PLAY.ascr
 chmod +x PLAY.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/SARAH-ACTIONA.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/SARAH-ACTIONA.sh
 chmod +x SARAH-ACTIONA.sh
 cd /home/chrome
 rm -rf Default
-wget https://github.com/mazbron/x/raw/master/fmb/fmb-profile.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/fmbi/fmb-profile.tar.gz
 tar -xvf fmb-profile.tar.gz
 echo =======4J========
 cd /root/Desktop
-wget https://github.com/mazbron/x/raw/master/fmb/best/4Jbest.sh
-wget https://github.com/mazbron/x/raw/master/fmb/best/4JStick.sh
-wget https://github.com/mazbron/x/raw/master/fmb/best/4JbestClick.sh
-wget https://github.com/mazbron/x/raw/master/fmb/best/4j.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/best/4jc.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/best/stick.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4Jbest.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JStick.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JbestClick.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4j.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4jc.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/stick.ascr
 chmod +x 4Jbest.sh
 chmod +x 4JStick.sh
 chmod +x 4JbestClick.sh
@@ -126,88 +126,88 @@ chmod +x 4jc.ascr
 chmod +x stick.ascr
 echo =======GD========
 
-wget https://github.com/mazbron/x/raw/master/fmb/GD.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmb/GD.ascr
 chmod +x GD.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/chameleon_1565469756518.json
+wget https://github.com/jxuat/xxx/raw/main/fmb/chameleon_1565469756518.json
 echo =======DG=============
-wget https://github.com/mazbron/x/raw/master/DG/DG.ascr
+wget https://github.com/jxuat/xxx/raw/main/DG/DG.ascr
 chmod +x DG.ascr
-wget https://github.com/mazbron/x/raw/master/DG/DG.sh
+wget https://github.com/jxuat/xxx/raw/main/DG/DG.sh
 chmod +x DG.sh
 echo ==========4J AtoZ==========
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZ.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ.sh
 chmod +x 4JAtoZ.sh
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZGame.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGame.ascr
 chmod +x 4JAtoZGame.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZGameNinja.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGameNinja.ascr
 chmod +x 4JAtoZGameNinja.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZNinjaa.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZNinjaa.sh
 chmod +x 4JAtoZNinjaa.sh
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/clear.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/clear.sh
 chmod +x clear.sh
 
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZ2.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ2.sh
 chmod +x 4JAtoZ2.sh
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZclick.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZclick.ascr
 chmod +x 4JAtoZclick.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/4JAtoZnoClick.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZnoClick.ascr
 chmod +x 4JAtoZnoClick.ascr
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/AtoZClick.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/AtoZClick.sh
 chmod +x AtoZClick.sh
 
-wget https://github.com/mazbron/x/raw/master/IG/IG.sh
+wget https://github.com/jxuat/xxx/raw/main/IG/IG.sh
 chmod +x IG.sh
-wget https://github.com/mazbron/x/raw/master/fmb/4jsarah.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/4jsarah.sh
 chmod +x 4jsarah.sh
 
-wget https://github.com/mazbron/x/raw/master/krixi/krixi.sh
+wget https://github.com/jxuat/xxx/raw/main/krixi/krixi.sh
 chmod +x krixi.sh
 
-wget https://raw.githubusercontent.com/mazbron/x/master/fmb/gdb.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdb.sh
 chmod +x gdb.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/fmb/gdbclick.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdbclick.sh
 chmod +x gdbclick.sh
-wget https://github.com/mazbron/x/raw/master/fmb/best/best-iframe.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/best/best-iframe.sh
 chmod +x best-iframe.sh
 #Gamepix
-wget https://github.com/mazbron/x/raw/master/GP/newww/GPif.sh
-wget https://github.com/mazbron/x/raw/master/GP/newww/GPclick.sh
-wget https://github.com/mazbron/x/raw/master/GP/newww/gp.ascr
-wget https://github.com/mazbron/x/raw/master/GP/newww/gpclick.ascr
+wget https://github.com/jxuat/xxx/raw/main/GP/new/GPif.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/GPclick.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
+wget https://github.com/jxuat/xxx/raw/main/GP/new/gpclick.ascr
 chmod +x GPif.sh
 chmod +x GPclick.sh
 chmod +x gp.ascr
 chmod +x gpclick.ascr
 echo ===gd new===
-wget https://github.com/mazbron/x/raw/master/GD/GDnew.sh
-wget https://github.com/mazbron/x/raw/master/GD/gdnew.ascr
+wget https://github.com/jxuat/xxx/raw/main/GD/GDnew.sh
+wget https://github.com/jxuat/xxx/raw/main/GD/gdnew.ascr
 chmod +x GDnew.sh
 chmod +x gdnew.ascr
 ==gd sarah==
-wget https://github.com/mazbron/x/raw/master/GD/GD.sh
+wget https://github.com/jxuat/xxx/raw/main/GD/GD.sh
 chmod +x GD.sh
 ====
 #GPdhammaci
-wget https://github.com/mazbron/x/raw/master/GP/ff/dc.sh
-wget https://github.com/mazbron/x/raw/master/GP/ff/gp2.ascr
-wget https://github.com/mazbron/x/raw/master/GP/ff/dcclick.sh
-wget https://github.com/mazbron/x/raw/master/GP/ff/gpclick2.ascr
+wget https://github.com/jxuat/xxx/raw/main/GP/ff/dc.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/ff/gp2.ascr
+wget https://github.com/jxuat/xxx/raw/main/GP/ff/dcclick.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/ff/gpclick2.ascr
 chmod +x dc.sh
 chmod +x gp2.ascr
 chmod +x dcclick.sh
 chmod +x gpclick2.ascr 
-wget https://github.com/mazbron/x/raw/master/GP/newww/GP2.sh
-wget https://github.com/mazbron/x/raw/master/GP/newww/GP2c.sh
+wget https://github.com/mazbron/x/raw/master/GP/new/GP2.sh
+wget https://github.com/mazbron/x/raw/master/GP/new/GP2c.sh
 chmod +x GP2.sh
 chmod +x GP2c.sh
 ==chiki==
-wget https://github.com/mazbron/x/raw/master/GP/newww/chiki.sh
-wget https://github.com/mazbron/x/raw/master/GP/newww/chikiclick.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/chiki.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/chikiclick.sh
 chmod +x chiki.sh
 chmod +x chikiclick.sh
 ==random===
-wget https://github.com/mazbron/x/raw/master/GP/newww/rndgp.sh
-wget https://github.com/mazbron/x/raw/master/GP/newww/rndgpc.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgp.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgpc.sh
 chmod +x rndgp.sh
 chmod +x rndgpc.sh
 ===ADOP===

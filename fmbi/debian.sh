@@ -32,14 +32,14 @@ wget http://68.69.187.118/chrome60new.tar.gz
 tar -xvf chrome60new.tar.gz
 sleep 1
 cd Desktop
-wget https://github.com/mazbron/x/raw/master/fmb/chr.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 chmod +x chr.sh
-wget https://github.com/mazbron/x/raw/master/fmb/AtoZ/clear.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/fmb/AtoZ/clear.sh
 chmod +x clear.sh
 echo ==GD 2022==
-wget https://github.com/mazbron/x/raw/master/GD/new22/GDNew.sh
-wget https://github.com/mazbron/x/raw/master/GD/new22/FI.ascr
-wget https://github.com/mazbron/x/raw/master/GD/new22/play.png
+wget https://github.com/jxuat/xxx/raw/main/GD/new22/GDNew.sh
+wget https://github.com/jxuat/xxx/raw/main/GD/new22/FI.ascr
+wget https://github.com/jxuat/xxx/raw/main/GD/new22/play.png
 chmod +x GDNew.sh
 chmod +x FI.ascr
 chmod +x play.png
@@ -48,12 +48,12 @@ apt-get install sl -y
 cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/mazbron/x/raw/master/fmb/proxychains.conf
-wget https://github.com/mazbron/x/raw/master/fmb/hosts
-echo "root:gl0d4kgl0d4k" | sudo chpasswd
+wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
+echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 nano /etc/hosts
 
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... MAZBRON.net
+echo Ceeeers... CERDASPRO.COM
 echo updated GD 2022

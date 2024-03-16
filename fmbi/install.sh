@@ -186,8 +186,7 @@ chmod +x gdnew.ascr
 ==gd sarah==
 wget https://github.com/jxuat/xxx/raw/main/GD/GD.sh
 chmod +x GD.sh
-====
-#GPdhammaci
+====GPdhammaci=====
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/dc.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/gp2.ascr
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/dcclick.sh
@@ -215,11 +214,10 @@ wget https://github.com/jxuat/xxx/raw/main/adop/adopFF.sh
 wget https://github.com/jxuat/xxx/raw/main/adop/scroll2.ascr
 chmod +x adopFF.sh
 chmod +x scroll2.ascr
-==================
-GG
+=======gg===========
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GG.sh
 chmod +x GG.sh
-==GD 2022==
+==GD2022==
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/GDNew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/FI.ascr
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/play.png

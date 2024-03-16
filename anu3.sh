@@ -161,7 +161,7 @@ mv proxychains.conf proxychains.conf.bak
 wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
 wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
 cp hosts hosts.bak
-echo "root:gl0d4kgl0d4k" | sudo chpasswd
+echo "root:Karyacerdas11" | sudo chpasswd
 sudo apt install xrdp -y 
 sleep 1
 sudo adduser xrdp ssl-cert

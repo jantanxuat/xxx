@@ -70,12 +70,6 @@ cd /home
 #tar -xvf default.tar.gz
 #wget https://pilgkada.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
-wget http://68.69.187.118/chrome60new.tar.gz
-tar -xvf chrome60new.tar.gz
-sleep 1
-mkdir nl
-cd nl
-cd /home
 wget pilegkada.com/gulingan/chprof2022.zip
 unzip chprof2022.zip
 sleep 1

@@ -34,7 +34,7 @@ sleep 1
 cd Desktop
 wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 chmod +x chr.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/fmb/AtoZ/clear.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/clear.sh
 chmod +x clear.sh
 echo ==GD 2022==
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/GDNew.sh

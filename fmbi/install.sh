@@ -161,7 +161,7 @@ wget https://github.com/jxuat/xxx/raw/main/fmbi/4jsarah.sh
 chmod +x 4jsarah.sh
 
 wget https://github.com/jxuat/xxx/raw/main/xrizi/krixi.sh
-chmod +x krixi.sh
+chmod +x xrizi.sh
 
 wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdb.sh
 chmod +x gdb.sh
@@ -196,8 +196,8 @@ chmod +x dc.sh
 chmod +x gp2.ascr
 chmod +x dcclick.sh
 chmod +x gpclick2.ascr 
-wget https://github.com/mazbron/x/raw/master/GP/new/GP2.sh
-wget https://github.com/mazbron/x/raw/master/GP/new/GP2c.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2c.sh
 chmod +x GP2.sh
 chmod +x GP2c.sh
 ==chiki==
@@ -210,12 +210,12 @@ wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgp.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgpc.sh
 chmod +x rndgp.sh
 chmod +x rndgpc.sh
-===ADOP===
+===ADOP-ADSweb===
 wget https://github.com/jxuat/xxx/raw/main/adop/adopFF.sh
 wget https://github.com/jxuat/xxx/raw/main/adop/scroll2.ascr
 chmod +x adopFF.sh
 chmod +x scroll2.ascr
-===
+==================
 GG
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GG.sh
 chmod +x GG.sh

@@ -5,7 +5,7 @@ wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 chmod +x chr.sh
 wget https://github.com/jxuat/xxx/raw/main/SARAH2.sh
 chmod +x SARAH2.sh
-
+echo ==================HALLOWEEN=============
 wget https://github.com/jxuat/xxx/raw/main/HW.sh
 chmod +x HW.sh
 wget https://github.com/jxuat/xxx/raw/main/CrossClicker.zip
@@ -21,7 +21,7 @@ cd /home/chrome
 rm -rf Default
 wget https://github.com/jxuat/xxx/raw/main/fmbi/fmb-profile.tar.gz
 tar -xvf fmb-profile.tar.gz
-echo =======4J========
+echo =======4J===========================
 cd /root/Desktop
 wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4Jbest.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JStick.sh
@@ -35,17 +35,17 @@ chmod +x 4JbestClick.sh
 chmod +x 4j.ascr
 chmod +x 4jc.ascr
 chmod +x stick.ascr
-echo =======GD========
+echo =======GD==================================
 
 wget https://github.com/jxuat/xxx/raw/main/fmbi/GD.ascr
 chmod +x GD.ascr
 wget https://github.com/jxuat/xxx/raw/main/fmbi/chameleon_1565469756518.json
-echo =======DG=============
+echo =======DG===================================
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.ascr
 chmod +x DG.ascr
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.sh
 chmod +x DG.sh
-echo ==========4J AtoZ==========
+echo ==========4J AtoZ===========================
 wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ.sh
 chmod +x 4JAtoZ.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGame.ascr

@@ -33,7 +33,7 @@ sudo apt-get install google-chrome-stable -y
 sleep 1
 sudo apt-get install flashplugin-installer -y
 sleep 1
-wget https://github.com/mazbron/x/raw/master/install_flash_player_11_linux.x86_64.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
@@ -70,8 +70,8 @@ cd Desktop
 #chmod +x expert.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/85.sh
 #chmod +x 85.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/drive2.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/drive.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/drive2.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/drive.sh
 chmod +x drive.sh
 chmod +x drive2.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/tek.sh
@@ -88,13 +88,13 @@ wget https://raw.githubusercontent.com/mazbron/x/master/chr.sh
 chmod +x chr.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/automo.sh
 #chmod +x automo.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/nomadic.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/nomadic.sh
 chmod +x nomadic.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/hipi.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/hipi.sh
 chmod +x hipi.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/left.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/left.sh
 chmod +x left.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/asia.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/asia.sh
 chmod +x asia.sh
 #wget https://github.com/mazbron/x/raw/master/dna.sh
 #chmod +x dna.sh
@@ -118,7 +118,7 @@ chmod +x asia.sh
 #chmod +x gm.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/GDJ.sh
 #chmod +x GDJ.sh
-wget https://github.com/mazbron/x/raw/master/autolist.sh
+wget https://github.com/jxuat/xxx/raw/main/autolist.sh
 chmod +x autolist.sh
 #wget https://github.com/mazbron/x/raw/master/autoevo.sh
 #chmod +x autoevo.sh
@@ -126,23 +126,23 @@ chmod +x autolist.sh
 #chmod +x caring.sh
 #wget https://github.com/mazbron/x/raw/master/remove.sh
 #chmod +x remove.sh
-wget https://github.com/mazbron/x/raw/master/Pulse.sh
+wget https://github.com/jxuat/xxx/raw/main/Pulse.sh
 chmod +x Pulse.sh
-wget https://github.com/mazbron/x/raw/master/AOL.sh
+wget https://github.com/jxuat/xxx/raw/main/AOL.sh
 chmod +x AOL.sh
-wget https://github.com/mazbron/x/raw/master/300.sh
+wget https://github.com/jxuat/xxx/raw/main/300.sh
 chmod +x 300.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/KILL.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/KILL.sh
 chmod +x KILL.sh
-wget https://github.com/mazbron/x/raw/master/PLS.sh
+wget https://github.com/jxuat/xxx/raw/main/PLS.sh
 chmod +x PLS.sh
 #wget https://github.com/mazbron/x/raw/master/Angular.sh
 #chmod +x Angular.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/Bike.sh
 #chmod +x Bike.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/Stance.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/Stance.sh
 chmod +x Stance.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/AOL2.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/AOL2.sh
 chmod +x AOL2.sh
 #apt-get install proxychains -y
 #sleep 1
@@ -153,8 +153,8 @@ cd /etc
 #mv proxychains.conf proxychains.conf.bak
 mv hosts hosts.bak
 #wget http://sovrncpm.com/proxychains.conf
-wget https://github.com/mazbron/x/raw/master/hosts
+wget https://github.com/jxuat/xxx/raw/main/hosts
 #nano /etc/hosts
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... MAZBRON.com _ BESTSEOTOOL.co
+echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.co
 echo updated 26/07/2017

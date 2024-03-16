@@ -27,7 +27,7 @@ sleep 1
 #wget https://github.com/mazbron/x/raw/master/fmb/mzlgame.tar.gz
 #tar -xvf mzlgame.tar.gz
 rm -rf .mozilla
-wget cerdaspro.com/ff19ipflood.tar.gz
+wget cerdaspro.com/gulingan/ff19ipflood.tar.gz
 tar -xvf ff19ipflood.tar.gz
  
 
@@ -90,7 +90,7 @@ tar -xvf DE.tar.gz
 cd
 mkdir Desktop
 cd Desktop
-wget https://github.com/jxuat/xxx/raw/main/fmb/chr.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 chmod +x chr.sh
 wget https://github.com/jxuat/xxx/raw/main/SARAH2.sh
 chmod +x SARAH2.sh
@@ -126,9 +126,9 @@ chmod +x 4jc.ascr
 chmod +x stick.ascr
 echo =======GD========
 
-wget https://github.com/jxuat/xxx/raw/main/fmb/GD.ascr
+wget https://github.com/jxuat/xxx/raw/main/fmbi/GD.ascr
 chmod +x GD.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmb/chameleon_1565469756518.json
+wget https://github.com/jxuat/xxx/raw/main/fmbi/chameleon_1565469756518.json
 echo =======DG=============
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.ascr
 chmod +x DG.ascr
@@ -160,7 +160,7 @@ chmod +x IG.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/4jsarah.sh
 chmod +x 4jsarah.sh
 
-wget https://github.com/jxuat/xxx/raw/main/krixi/krixi.sh
+wget https://github.com/jxuat/xxx/raw/main/xrizi/krixi.sh
 chmod +x krixi.sh
 
 wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdb.sh
@@ -211,18 +211,18 @@ wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgpc.sh
 chmod +x rndgp.sh
 chmod +x rndgpc.sh
 ===ADOP===
-wget https://github.com/mazbron/x/raw/master/adop/adopFF.sh
-wget https://github.com/mazbron/x/raw/master/adop/scroll2.ascr
+wget https://github.com/jxuat/xxx/raw/main/adop/adopFF.sh
+wget https://github.com/jxuat/xxx/raw/main/adop/scroll2.ascr
 chmod +x adopFF.sh
 chmod +x scroll2.ascr
 ===
 GG
-wget https://github.com/mazbron/x/raw/master/GP/newww/GG.sh
+wget https://github.com/jxuat/xxx/raw/main/GP/new/GG.sh
 chmod +x GG.sh
 ==GD 2022==
-wget https://github.com/mazbron/x/raw/master/GD/new22/GDNew.sh
-wget https://github.com/mazbron/x/raw/master/GD/new22/FI.ascr
-wget https://github.com/mazbron/x/raw/master/GD/new22/play.png
+wget https://github.com/jxuat/xxx/raw/main/GD/new22/GDNew.sh
+wget https://github.com/jxuat/xxx/raw/main/GD/new22/FI.ascr
+wget https://github.com/jxuat/xxx/raw/main/GD/new22/play.png
 chmod +x GDNew.sh
 chmod +x FI.ascr
 chmod +x play.png
@@ -233,14 +233,14 @@ apt install php libapache2-mod-php php-mysql -y
 cd /etc/apache2
 rm apache2.conf
 rm apache2.conf
-wget https://github.com/mazbron/x/raw/master/apache2.conf
+wget https://github.com/jxuat/xxx/raw/main/apache2.conf
 service apache2 restart
 cd /var/www/html
 rm index.html
 #wget https://github.com/mazbron/x/raw/master/money/google.zip
 #unzip google.zip
-wget https://github.com/mazbron/x/raw/master/HTML/index.html
-wget https://github.com/mazbron/x/raw/master/HTML/style.css
+wget https://github.com/jxuat/xxx/raw/main/HTML/index.html
+wget https://github.com/jxuat/xxx/raw/main/HTML/style.css
 apt-get install proxychains -y
 #sleep 1
 apt-get install sl -y
@@ -249,13 +249,13 @@ apt-get install sl -y
 cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/mazbron/x/raw/master/fmb/proxychains.conf
-wget https://github.com/mazbron/x/raw/master/fmb/hosts
-echo "root:gl0d4kgl0d4k" | sudo chpasswd
+wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
+echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 nano /etc/hosts
 
 
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... MAZBRON.com _ BESTSEOTOOL.co
+echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.co
 echo updated Famobi and 4J AtoZ - 7-09-2019

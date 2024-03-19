@@ -73,7 +73,8 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-#wget https://mazbron.net/chrome4.tar.gz
+echo ====antisipasi======
+#wget https://pilegkada.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
 wget http://68.69.187.118/chrome60new.tar.gz
 tar -xvf chrome60new.tar.gz

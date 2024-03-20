@@ -73,4 +73,4 @@ mv hosts hosts.bak
 wget https://github.com/jxuat/xxx/raw/main/hosts
 nano /etc/hosts
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... MAZBRON.com _ BESTSEOTOOL.co
+echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.co

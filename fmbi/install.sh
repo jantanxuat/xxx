@@ -161,8 +161,8 @@ chmod +x IG.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/4jsarah.sh
 chmod +x 4jsarah.sh
 
-wget https://github.com/jxuat/xxx/raw/main/xrizi/krixi.sh
-chmod +x xrizi.sh
+wget https://github.com/jxuat/xxx/raw/main/xrizi/kris.sh
+chmod +x kris.sh
 
 wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdb.sh
 chmod +x gdb.sh

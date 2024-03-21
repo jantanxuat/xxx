@@ -170,7 +170,7 @@ wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdbclick.sh
 chmod +x gdbclick.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/best/best-iframe.sh
 chmod +x best-iframe.sh
-#Gamepix
+echo ====Gamepix====
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GPif.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GPclick.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
@@ -179,12 +179,12 @@ chmod +x GPif.sh
 chmod +x GPclick.sh
 chmod +x gp.ascr
 chmod +x gpclick.ascr
-echo ===gd new===
+echo ===gd-new===
 wget https://github.com/jxuat/xxx/raw/main/GD/GDnew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/gdnew.ascr
 chmod +x GDnew.sh
 chmod +x gdnew.ascr
-==gd sarah==
+==gd-sarah==
 wget https://github.com/jxuat/xxx/raw/main/GD/GD.sh
 chmod +x GD.sh
 ====GPdhammaci=====

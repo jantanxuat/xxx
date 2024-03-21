@@ -58,7 +58,7 @@ cd /home
 ##rm -rf Default
 ##unzip profile-chrome.zip
 #sleep 2
-#wget https://github.com/mazbron/x/raw/master/chrome.tar.gz
+#wget https://github.com/jxuat/xxx/raw/main/chrome.tar.gz
 #tar -xvf chrome.tar.gz
 #sleep 1
 #wget http://173.212.241.46/x/ch60-3dir.tar.gz
@@ -66,8 +66,8 @@ cd /home
 #sleep 3
 #mv chrome chrome60
 #cd chrome60
-##wget https://github.com/mazbron/x/raw/master/fmb/game%2Balexa.tar.gz
-#wget https://github.com/mazbron/x/raw/master/default.tar.gz
+##wget https://github.com/jxuat/xxx/raw/main/fmb/game%2Balexa.tar.gz
+#wget https://github.com/jxuat/xxx/raw/main/default.tar.gz
 #sleep 3
 #rm -rf Default
 #sleep 3

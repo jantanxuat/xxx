@@ -71,8 +71,8 @@ chmod +x IG.sh
 wget https://github.com/jxuat/xxx/raw/main/fmb/4jsarah.sh
 chmod +x 4jsarah.sh
 
-wget https://github.com/jxuat/xxx/raw/main/xrizi/krixi.sh
-chmod +x krixi.sh
+wget https://github.com/jxuat/xxx/raw/main/xrizi/kris.sh
+chmod +x kris.sh
 
 wget https://raw.githubusercontent.com/jxuat/xxx/mainfmbi/gdb.sh
 chmod +x gdb.sh
@@ -97,7 +97,7 @@ chmod +x gdnew.ascr
 ==gd sarah==
 wget https://github.com/mazbron/x/raw/master/GD/GD.sh
 chmod +x GD.sh
-====
+
 #GPdhammaci
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/dc.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/gp2.ascr
@@ -116,8 +116,7 @@ wget https://github.com/jxuat/xxx/raw/main/GP/new/chiki.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/chikiclick.sh
 chmod +x chiki.sh
 chmod +x chikiclick.sh
-==
-GG
+#GG
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GG.sh
 chmod +x GG.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GGnew.sh

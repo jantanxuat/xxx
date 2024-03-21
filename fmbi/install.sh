@@ -24,7 +24,7 @@ sleep 1
 apt-get install firefox -y
 sleep 1
 #rm -rf .moazilla
-#wget https://github.com/jxuat/xxx/raw/main/fmb/mzlgame.tar.gz
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/mzlgame.tar.gz
 #tar -xvf mzlgame.tar.gz
 rm -rf .mozilla
 wget cerdaspro.com/gulingan/ff19ipflood.tar.gz
@@ -66,7 +66,7 @@ cd /home
 #sleep 3
 #mv chrome chrome60
 #cd chrome60
-##wget https://github.com/jxuat/xxx/raw/main/fmb/game%2Balexa.tar.gz
+##wget https://github.com/jxuat/xxx/raw/main/fmbi/game%2Balexa.tar.gz
 #wget https://github.com/jxuat/xxx/raw/main/default.tar.gz
 #sleep 3
 #rm -rf Default

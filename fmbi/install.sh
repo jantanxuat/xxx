@@ -256,5 +256,4 @@ nano /etc/hosts
 
 
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
-echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.co
-echo updated Famobi and 4J AtoZ - 7-09-2019
+echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.com

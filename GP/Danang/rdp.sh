@@ -136,7 +136,7 @@ cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
 wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
-wget https://github.com/anangpurnama/anang/raw/main/hosts
+#wget https://github.com/anangpurnama/anang/raw/main/hosts
 echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 nano /etc/hosts

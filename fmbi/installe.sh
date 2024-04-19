@@ -128,7 +128,7 @@ cd /root/Desktop
 #wget https://github.com/jxuat/xxx/raw/main/fmbi/GD.ascr
 #chmod +x GD.ascr
 #wget https://github.com/jxuat/xxx/raw/main/fmbi/chameleon_1565469756518.json
-echo =======DG=============
+#echo =======DG=============
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.ascr
 chmod +x DG.ascr
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.sh
@@ -158,10 +158,8 @@ wget https://github.com/jxuat/xxx/raw/main/IG/IG.sh
 chmod +x IG.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/4jsarah.sh
 chmod +x 4jsarah.sh
-
 wget https://github.com/jxuat/xxx/raw/main/xrizi/kris.sh
 chmod +x kris.sh
-
 wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdb.sh
 chmod +x gdb.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdbclick.sh
@@ -181,41 +179,41 @@ wget https://github.com/jxuat/xxx/raw/main/GD/GDnew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/gdnew.ascr
 chmod +x GDnew.sh
 chmod +x gdnew.ascr
-echo ==gd-sarah==
+#echo ==gd-sarah==
 wget https://github.com/jxuat/xxx/raw/main/GD/GD.sh
 chmod +x GD.sh
-echo ====GPdhammaci=====
-wget https://github.com/jxuat/xxx/raw/main/GP/ff/dc.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/ff/gp2.ascr
-wget https://github.com/jxuat/xxx/raw/main/GP/ff/dcclick.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/ff/gpclick2.ascr
-chmod +x dc.sh
-chmod +x gp2.ascr
-chmod +x dcclick.sh
-chmod +x gpclick2.ascr 
-wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2c.sh
-chmod +x GP2.sh
-chmod +x GP2c.sh
-echo ==chiki==
+#echo ====GPdhammaci=====
+#wget https://github.com/jxuat/xxx/raw/main/GP/ff/dc.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/ff/gp2.ascr
+#wget https://github.com/jxuat/xxx/raw/main/GP/ff/dcclick.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/ff/gpclick2.ascr
+#chmod +x dc.sh
+#chmod +x gp2.ascr
+#chmod +x dcclick.sh
+#chmod +x gpclick2.ascr 
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2c.sh
+#chmod +x GP2.sh
+#chmod +x GP2c.sh
+#echo ==chiki==
 wget https://github.com/jxuat/xxx/raw/main/GP/new/chiki.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/chikiclick.sh
 chmod +x chiki.sh
 chmod +x chikiclick.sh
-echo ==random===
+#echo ==random===
 wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgp.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgpc.sh
 chmod +x rndgp.sh
 chmod +x rndgpc.sh
-echo ===ADOP-ADSweb===
+#echo ===ADOP-ADSweb===
 wget https://github.com/jxuat/xxx/raw/main/adop/adopFF.sh
 wget https://github.com/jxuat/xxx/raw/main/adop/scroll2.ascr
 chmod +x adopFF.sh
 chmod +x scroll2.ascr
-echo =======gg===========
+#echo =======gg===========
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GG.sh
 chmod +x GG.sh
-echo ==GD2022==
+#echo ==GD2022==
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/GDNew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/FI.ascr
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/play.png
@@ -245,18 +243,10 @@ cd /etc
 mv hosts hosts.bak
 mv proxychains.conf proxychains.conf.bak
 wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
-wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
 echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
-nano /etc/hosts
 
-snap install termdown
-cd /etc
-mv hosts hosts.bakk
-mv proxychains.conf proxychains.conf.bak
-wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
-#wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
-#cp hosts hosts.bak
 pip install termdown
 sudo apt install xrdp -y 
 sleep 1

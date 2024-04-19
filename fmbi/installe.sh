@@ -73,7 +73,7 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-echo ====antisipasi======
+#echo ====antisipasi======
 #wget https://pilegkada.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
 wget http://68.69.187.118/chrome60new.tar.gz
@@ -95,7 +95,6 @@ wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 chmod +x chr.sh
 wget https://github.com/jxuat/xxx/raw/main/SARAH2.sh
 chmod +x SARAH2.sh
-
 wget https://github.com/jxuat/xxx/raw/main/HW.sh
 chmod +x HW.sh
 wget https://github.com/jxuat/xxx/raw/main/CrossClicker.zip
@@ -111,50 +110,49 @@ cd /home/chrome
 rm -rf Default
 wget https://github.com/jxuat/xxx/raw/main/fmbi/fmb-profile.tar.gz
 tar -xvf fmb-profile.tar.gz
-echo =======4J========
+#echo =======4J========
 cd /root/Desktop
-wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4Jbest.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JStick.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JbestClick.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4j.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4jc.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/best/stick.ascr
-chmod +x 4Jbest.sh
-chmod +x 4JStick.sh
-chmod +x 4JbestClick.sh
-chmod +x 4j.ascr
-chmod +x 4jc.ascr
-chmod +x stick.ascr
-echo =======GD========
-
-wget https://github.com/jxuat/xxx/raw/main/fmbi/GD.ascr
-chmod +x GD.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/chameleon_1565469756518.json
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4Jbest.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JStick.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4JbestClick.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4j.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/best/4jc.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/best/stick.ascr
+#chmod +x 4Jbest.sh
+#chmod +x 4JStick.sh
+#chmod +x 4JbestClick.sh
+#chmod +x 4j.ascr
+#chmod +x 4jc.ascr
+#chmod +x stick.ascr
+#echo =======GD========
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/GD.ascr
+#chmod +x GD.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/chameleon_1565469756518.json
 echo =======DG=============
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.ascr
 chmod +x DG.ascr
 wget https://github.com/jxuat/xxx/raw/main/DG/DG.sh
 chmod +x DG.sh
-echo ==========4J AtoZ==========
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ.sh
-chmod +x 4JAtoZ.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGame.ascr
-chmod +x 4JAtoZGame.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGameNinja.ascr
-chmod +x 4JAtoZGameNinja.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZNinjaa.sh
-chmod +x 4JAtoZNinjaa.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/clear.sh
-chmod +x clear.sh
+#echo ==========4J AtoZ==========
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ.sh
+#chmod +x 4JAtoZ.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGame.ascr
+#chmod +x 4JAtoZGame.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZGameNinja.ascr
+#chmod +x 4JAtoZGameNinja.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZNinjaa.sh
+#chmod +x 4JAtoZNinjaa.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/clear.sh
+#chmod +x clear.sh
 
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ2.sh
-chmod +x 4JAtoZ2.sh
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZclick.ascr
-chmod +x 4JAtoZclick.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZnoClick.ascr
-chmod +x 4JAtoZnoClick.ascr
-wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/AtoZClick.sh
-chmod +x AtoZClick.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZ2.sh
+#chmod +x 4JAtoZ2.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZclick.ascr
+#chmod +x 4JAtoZclick.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/4JAtoZnoClick.ascr
+#chmod +x 4JAtoZnoClick.ascr
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/AtoZ/AtoZClick.sh
+#chmod +x AtoZClick.sh
 
 wget https://github.com/jxuat/xxx/raw/main/IG/IG.sh
 chmod +x IG.sh
@@ -170,24 +168,23 @@ wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdbclick.sh
 chmod +x gdbclick.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/best/best-iframe.sh
 chmod +x best-iframe.sh
-echo ====Gamepix====
-wget https://github.com/jxuat/xxx/raw/main/GP/new/GPif.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/new/GPclick.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
-wget https://github.com/jxuat/xxx/raw/main/GP/new/gpclick.ascr
-chmod +x GPif.sh
-chmod +x GPclick.sh
-chmod +x gp.ascr
-chmod +x gpclick.ascr
-echo ===gd-new===
+#echo ====Gamepix====
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/GPif.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/GPclick.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/gpclick.ascr
+#chmod +x GPif.sh
+#chmod +x GPclick.sh
+#chmod +x gpclick.ascr
+#echo ===gd-new===
 wget https://github.com/jxuat/xxx/raw/main/GD/GDnew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/gdnew.ascr
 chmod +x GDnew.sh
 chmod +x gdnew.ascr
-==gd-sarah==
+echo ==gd-sarah==
 wget https://github.com/jxuat/xxx/raw/main/GD/GD.sh
 chmod +x GD.sh
-====GPdhammaci=====
+echo ====GPdhammaci=====
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/dc.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/gp2.ascr
 wget https://github.com/jxuat/xxx/raw/main/GP/ff/dcclick.sh
@@ -200,25 +197,25 @@ wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GP2c.sh
 chmod +x GP2.sh
 chmod +x GP2c.sh
-==chiki==
+echo ==chiki==
 wget https://github.com/jxuat/xxx/raw/main/GP/new/chiki.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/chikiclick.sh
 chmod +x chiki.sh
 chmod +x chikiclick.sh
-==random===
+echo ==random===
 wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgp.sh
 wget https://github.com/jxuat/xxx/raw/main/GP/new/rndgpc.sh
 chmod +x rndgp.sh
 chmod +x rndgpc.sh
-===ADOP-ADSweb===
+echo ===ADOP-ADSweb===
 wget https://github.com/jxuat/xxx/raw/main/adop/adopFF.sh
 wget https://github.com/jxuat/xxx/raw/main/adop/scroll2.ascr
 chmod +x adopFF.sh
 chmod +x scroll2.ascr
-=======gg===========
+echo =======gg===========
 wget https://github.com/jxuat/xxx/raw/main/GP/new/GG.sh
 chmod +x GG.sh
-==GD2022==
+echo ==GD2022==
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/GDNew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/FI.ascr
 wget https://github.com/jxuat/xxx/raw/main/GD/new22/play.png
@@ -230,7 +227,6 @@ sudo service xrdp restart
 apt install apache2 -y
 apt install php libapache2-mod-php php-mysql -y
 cd /etc/apache2
-rm apache2.conf
 rm apache2.conf
 wget https://github.com/jxuat/xxx/raw/main/apache2.conf
 service apache2 restart

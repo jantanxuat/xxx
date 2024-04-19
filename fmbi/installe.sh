@@ -250,6 +250,35 @@ echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 nano /etc/hosts
 
+snap install termdown
+cd /etc
+mv hosts hosts.bakk
+mv proxychains.conf proxychains.conf.bak
+wget https://github.com/jxuat/xxx/raw/main/fmbi/proxychains.conf
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
+#cp hosts hosts.bak
+pip install termdown
+sudo apt install xrdp -y 
+sleep 1
+sudo adduser xrdp ssl-cert
+sleep 1
+sudo systemctl restart xrdp
+sleep 1
+sudo ufw allow 3389
+sudo ufw allow from 1.1.1.1 to any port 3389
+sleep 1
+sudo apt install lxde -y 
+#new ubuntu 20.04
+apt install net-tools -y
+sleep 1
+#end new
+echo Removing Screensaver
+apt-get remove xscreensaver -y
+sudo service xrdp restart
+#nano /etc/hosts
+sudo systemctl enable xrdp
+sudo update-alternatives --config x-session-manager
+
 
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
 echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.com

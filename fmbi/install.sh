@@ -74,19 +74,19 @@ cd /home
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
 echo ====antisipasi======
-#wget https://pilegkada.com/gulingan/chrome4.tar.gz
+#wget https://cerdaspro.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
 wget http://68.69.187.118/chrome60new.tar.gz
 tar -xvf chrome60new.tar.gz
 sleep 1
 mkdir nl
 cd nl
-wget pilegkada.com/gulingan/NL.tar.gz
+wget cerdaspro.com/gulingan/NL.tar.gz
 tar -xvf NL.tar.gz
 cd /home
 mkdir de
 cd de
-wget wget pilegkada.com/gulingan/DE.tar.gz
+wget wget cerdaspro.com/gulingan/DE.tar.gz
 tar -xvf DE.tar.gz
 cd
 mkdir Desktop

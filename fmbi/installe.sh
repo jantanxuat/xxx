@@ -16,10 +16,8 @@ apt-get install xrdp=0.6.1-2 -y
 sleep 2
 echo Removing Screensaver
 apt-get remove xscreensaver -y
-
 sleep 1
 #sudo apt install openjdk-8-jdk -y
-
 sleep 1
 apt-get install firefox -y
 sleep 1
@@ -29,8 +27,6 @@ sleep 1
 rm -rf .mozilla
 wget cerdaspro.com/gulingan/ff19ipflood.tar.gz
 tar -xvf ff19ipflood.tar.gz
- 
-
 sleep 1
 echo install chrome
 sleep 1
@@ -73,11 +69,10 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-#echo ====antisipasi======
-#wget https://cerdaspro.com/gulingan/chrome4.tar.gz
-#tar -xvf chrome4.tar.gz
-wget http://68.69.187.118/chrome60new.tar.gz
-tar -xvf chrome60new.tar.gz
+wget https://cerdaspro.com/gulingan/chrome4.tar.gz
+tar -xvf chrome4.tar.gz
+#wget http://68.69.187.118/chrome60new.tar.gz
+#tar -xvf chrome60new.tar.gz
 sleep 1
 mkdir nl
 cd nl

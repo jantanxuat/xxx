@@ -29,8 +29,6 @@ sleep 1
 rm -rf .mozilla
 wget cerdaspro.com/gulingan/ff19ipflood.tar.gz
 tar -xvf ff19ipflood.tar.gz
- 
-
 sleep 1
 echo install chrome
 sleep 1
@@ -73,11 +71,10 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-echo ====antisipasi======
-#wget https://cerdaspro.com/gulingan/chrome4.tar.gz
-#tar -xvf chrome4.tar.gz
-wget http://68.69.187.118/chrome60new.tar.gz
-tar -xvf chrome60new.tar.gz
+wget https://cerdaspro.com/gulingan/chrome4.tar.gz
+tar -xvf chrome4.tar.gz
+#wget http://68.69.187.118/chrome60new.tar.gz
+#tar -xvf chrome60new.tar.gz
 sleep 1
 mkdir nl
 cd nl
@@ -170,16 +167,16 @@ wget https://raw.githubusercontent.com/jxuat/xxx/main/fmbi/gdbclick.sh
 chmod +x gdbclick.sh
 wget https://github.com/jxuat/xxx/raw/main/fmbi/best/best-iframe.sh
 chmod +x best-iframe.sh
-echo ====Gamepix====
-wget https://github.com/jxuat/xxx/raw/main/GP/new/GPif.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/new/GPclick.sh
-wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
-wget https://github.com/jxuat/xxx/raw/main/GP/new/gpclick.ascr
-chmod +x GPif.sh
-chmod +x GPclick.sh
-chmod +x gp.ascr
-chmod +x gpclick.ascr
-echo ===gd-new===
+====Gamepix====
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/GPif.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/GPclick.sh
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/gp.ascr
+#wget https://github.com/jxuat/xxx/raw/main/GP/new/gpclick.ascr
+#chmod +x GPif.sh
+#chmod +x GPclick.sh
+#chmod +x gp.ascr
+#chmod +x gpclick.ascr
+===gd-new===
 wget https://github.com/jxuat/xxx/raw/main/GD/GDnew.sh
 wget https://github.com/jxuat/xxx/raw/main/GD/gdnew.ascr
 chmod +x GDnew.sh
@@ -253,7 +250,6 @@ wget https://github.com/jxuat/xxx/raw/main/fmbi/hosts
 echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart
 nano /etc/hosts
-
 
 echo You have successfully Installed LXDE Desktop Environment.. Enjoy..!!
 echo Ceeeers... CERDASPRO.com _ RUDYSEOTOOL.com

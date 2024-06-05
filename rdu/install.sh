@@ -33,7 +33,7 @@ sudo apt-get update -y
 sudo apt-get install google-chrome-stable -y
 #wget --no-check-certificate 'https://www.googleapis.com/drive/v3/files/1h7JJqMLu1IOGNF7OBkvt65a64C9XOhYc?alt=media&key=AIzaSyDTN35uWgTNDGpBi9iFpBf1WItEZZlr6aw' -O chrome60.deb
 #sudo apt purge google-chrome-stable -y
-#wget https://pilegkada.com/gulingan/chrome60.deb
+#wget https://cerdaspro.com/gulingan/chrome60.deb
 sleep 1
 sudo apt autoclean
 #sudo dpkg -i chrome60.deb
@@ -68,19 +68,19 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-#wget https://pilgkada.com/gulingan/chrome4.tar.gz
+#wget https://cerdaspro.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
-wget pilegkada.com/gulingan/chprof2022.zip
+wget cerdaspro.com/gulingan/chprof2022.zip
 unzip chprof2022.zip
 sleep 1
 mkdir nl
 cd nl
-wget pilegkada.com/gulingan/NL.tar.gz
+wget cerdaspro.com/gulingan/NL.tar.gz
 tar -xvf NL.tar.gz
 cd /home
 mkdir de
 cd de
-wget wget pilegkada.com/gulingan/DE.tar.gz
+wget wget cerdaspro.com/gulingan/DE.tar.gz
 tar -xvf DE.tar.gz
 #2022 update profile chrome60
 $cd chrome60

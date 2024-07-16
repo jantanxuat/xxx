@@ -123,7 +123,6 @@ chmod +x 4j.ascr
 chmod +x 4jc.ascr
 chmod +x stick.ascr
 echo =======GD========
-
 wget https://github.com/jxuat/xxx/raw/main/fmbi/GD.ascr
 chmod +x GD.ascr
 wget https://github.com/jxuat/xxx/raw/main/fmbi/chameleon_1565469756518.json

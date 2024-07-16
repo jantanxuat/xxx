@@ -1,8 +1,8 @@
 echo Updating and upgrading your System..
 sleep 1
-apt-get update
+#apt-get update
 sleep 2
-echo Installing desktop #(xrdp)
+#echo Installing desktop #(xrdp)
 sleep 3
 apt-get install xorg xrdp lxde -y
 sleep 1
@@ -10,19 +10,21 @@ apt-get install zip -y
 apt install unzip -y
 apt-get install nano -y
 sleep 5
-sudo apt-get remove xrdp vnc4server tightvncserver -y
-sudo apt-get install tightvncserver -y
-apt-get install xrdp=0.6.1-2 -y
+#sudo apt-get remove xrdp vnc4server tightvncserver -y
+#sudo apt-get install tightvncserver -y
+#apt-get install xrdp=0.6.1-2 -y
 sleep 2
+sudo apt-get install actiona -y
 echo Removing Screensaver
 apt-get remove xscreensaver -y
 
 sleep 1
-#sudo apt install openjdk-8-jdk -y
+sudo apt install openjdk-8-jdk -y
 
 sleep 1
 apt-get install firefox -y
 sleep 1
+echo install chrome
 #rm -rf .moazilla
 #wget https://github.com/jxuat/xxx/raw/main/fmbi/mzlgame.tar.gz
 #tar -xvf mzlgame.tar.gz
@@ -39,13 +41,13 @@ sudo apt-get install google-chrome-stable -y
 wget --no-check-certificate 'https://www.googleapis.com/drive/v3/files/1h7JJqMLu1IOGNF7OBkvt65a64C9XOhYc?alt=media&key=AIzaSyDTN35uWgTNDGpBi9iFpBf1WItEZZlr6aw' -O chrome60.deb
 sudo apt purge google-chrome-stable -y
 sleep 1
-sudo dpkg -i chrome60.deb -y
+#sudo dpkg -i chrome60.deb -y
 sleep 1
-sudo apt-get -f install -y
+#sudo apt-get -f install -y
 sleep 1
 sudo apt-get install flashplugin-installer -y
 sleep 1
-apt-get install chromium-browser -y
+#apt-get install chromium-browser -y
 sleep 1
 wget https://github.com/jxuat/xxx/raw/main/install_flash_player_11_linux.x86_64.tar.gz
 tar -xvf install_flash_player_11_linux.x86_64.tar.gz
@@ -71,8 +73,10 @@ cd /home
 #sleep 3
 ##tar -xvf game+alexa.tar.gz
 #tar -xvf default.tar.gz
-wget https://cerdaspro.com/gulingan/chrome4.tar.gz
-tar -xvf chrome4.tar.gz
+#wget https://cerdaspro.com/gulingan/chrome4.tar.gz
+#tar -xvf chrome4.tar.gz
+wget cerdaspro.com/gulingan/chprof2022.zip
+unzip chprof2022.zip
 #wget http://68.69.187.118/chrome60new.tar.gz
 #tar -xvf chrome60new.tar.gz
 sleep 1
@@ -85,6 +89,12 @@ mkdir de
 cd de
 wget wget cerdaspro.com/gulingan/DE.tar.gz
 tar -xvf DE.tar.gz
+$cd chrome60
+$rm -rf Default
+$sleep 1
+$wget https://github.com/jxuat/xxx/raw/main/Default.zip
+$unzip Default.zip
+
 cd
 mkdir Desktop
 cd Desktop

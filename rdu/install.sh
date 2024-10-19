@@ -103,7 +103,7 @@ chmod +x GPNew.sh
 chmod +x linkFIGP.sh
 #chmod +x chr.sh
 sleep 1
-echo "root:Karyacerdas11" | sudo chpasswd
+echo "root:Karyacerdas18" | sudo chpasswd
 sudo service xrdp restart
 apt install apache2 -y
 #apt install php libapache2-mod-php php-mysql -y

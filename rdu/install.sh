@@ -70,38 +70,38 @@ cd /home
 #tar -xvf default.tar.gz
 #wget https://cerdaspro.com/gulingan/chrome4.tar.gz
 #tar -xvf chrome4.tar.gz
-wget cerdaspro.com/gulingan/chprof2022.zip
-unzip chprof2022.zip
-sleep 1
-mkdir nl
-cd nl
-wget cerdaspro.com/gulingan/NL.tar.gz
-tar -xvf NL.tar.gz
-cd /home
-mkdir de
-cd de
-wget wget cerdaspro.com/gulingan/DE.tar.gz
-tar -xvf DE.tar.gz
+#wget cerdaspro.com/gulingan/chprof2022.zip
+#unzip chprof2022.zip
+#sleep 1
+#mkdir nl
+#cd nl
+#wget cerdaspro.com/gulingan/NL.tar.gz
+#tar -xvf NL.tar.gz
+#cd /home
+#mkdir de
+#cd de
+#wget wget cerdaspro.com/gulingan/DE.tar.gz
+#tar -xvf DE.tar.gz
 #2022 update profile chrome60
-$cd chrome60
-$rm -rf Default
-$sleep 1
-$wget https://github.com/jxuat/xxx/raw/main/Default.zip
-$unzip Default.zip
+#$cd chrome60
+#$rm -rf Default
+#$sleep 1
+#$wget https://github.com/jxuat/xxx/raw/main/Default.zip
+#$unzip Default.zip
 
 cd
 mkdir Desktop
 cd Desktop
-wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
+#wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/FIGP.ascr
 wget https://github.com/jxuat/xxx/raw/main/rdu/GPNew.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/linkFIGP.sh
-wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp.png
-wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp2.png
+#wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp.png
+#wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/playgp2.png
 chmod +x FIGP.ascr
 chmod +x GPNew.sh
 chmod +x linkFIGP.sh
-chmod +x chr.sh
+#chmod +x chr.sh
 sleep 1
 echo "root:Karyacerdas11" | sudo chpasswd
 sudo service xrdp restart

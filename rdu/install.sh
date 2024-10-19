@@ -92,7 +92,7 @@ cd /home
 cd
 mkdir Desktop
 cd Desktop
-#wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
+wget https://github.com/jxuat/xxx/raw/main/fmbi/chr.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/FIGP.ascr
 wget https://github.com/jxuat/xxx/raw/main/rdu/GPNew.sh
 wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/linkFIGP.sh
@@ -101,7 +101,7 @@ wget https://raw.githubusercontent.com/jxuat/xxx/main/rdu/linkFIGP.sh
 chmod +x FIGP.ascr
 chmod +x GPNew.sh
 chmod +x linkFIGP.sh
-#chmod +x chr.sh
+chmod +x chr.sh
 sleep 1
 echo "root:Karyacerdas18" | sudo chpasswd
 sudo service xrdp restart
